@@ -68,14 +68,13 @@ ex) Baekjoon > seulah
 
 <tr>
 <th>Name</th>
-<td width="100" align="center">아슬아</td>
+<td width="100" align="center">이슬아</td>
 <td width="100" align="center">박재홍</td>
 <td width="100" align="center">김예인</td>
 <td width="100" align="center">최지훈</td>
 <td width="100" align="center">손민지</td>
 <td width="100" align="center">김문기</td>
 <td width="100" align="center">이정빈</td>
-<td width="100" align="center">박해승</td>
 </tr>
 
 
@@ -124,11 +123,6 @@ ex) Baekjoon > seulah
 <td width="100" align="center">
 <a href="https://github.com/coffeesigma/">
 <img src="http://img.shields.io/badge/coffeesigma-green?style=social&logo=github"/>
-</a>
-</td>
-<td width="100" align="center">
-<a href="https://github.com/parkhs21">
-<img src="http://img.shields.io/badge/parkhs21-green?style=social&logo=github"/>
 </a>
 </td>
 </tr>
