@@ -40,8 +40,8 @@
 1차: Baekjoon - IT기업 및 대기업 계열사 코테보면서 비슷했던 문제들
 | |문제 1|문제 2|타임어택 문제|진행 현황|
 |:-:|:-:|:-:|:-:|:-:|
-|1회차(25.01.08)|[임스와 함께하는 미니게임](https://www.acmicpc.net/problem/25757)|[블로그](https://www.acmicpc.net/problem/21921)|[]()|`완료`|
-|2회차(25.01.15)|[차집합](https://www.acmicpc.net/problem/1822)|[비슷한 단어](https://www.acmicpc.net/problem/2607)|[]()|`진행 중`|
+|1회차(25.01.08)|[임스와 함께하는 미니게임](https://www.acmicpc.net/problem/25757)|[블로그](https://www.acmicpc.net/problem/21921)|-|`완료`|
+|2회차(25.01.15)|[차집합](https://www.acmicpc.net/problem/1822)|[비슷한 단어](https://www.acmicpc.net/problem/2607)|[덩치](https://www.acmicpc.net/problem/7568)|`완료`|
 |3회차(25.01.22)|[]()|[]()|[]()||
 |4회차(25.01.29)|[]()|[]()|[]()||
 
