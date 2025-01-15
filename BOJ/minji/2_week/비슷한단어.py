@@ -3,6 +3,7 @@ from collections import Counter
 def isSimilar(word1, word2):
     count1 = Counter(word1)
     count2 = Counter(word2)
+    print(count2)
 
     if abs(len(word1)-len(word2)) > 1:
         return False 
