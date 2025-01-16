@@ -42,7 +42,7 @@
 |:-:|:-:|:-:|:-:|:-:|
 |1회차(25.01.08)|[임스와 함께하는 미니게임](https://www.acmicpc.net/problem/25757)|[블로그](https://www.acmicpc.net/problem/21921)|-|`완료`|
 |2회차(25.01.15)|[차집합](https://www.acmicpc.net/problem/1822)|[비슷한 단어](https://www.acmicpc.net/problem/2607)|[덩치](https://www.acmicpc.net/problem/7568)|`완료`|
-|3회차(25.01.22)|[설탕 배달](https://www.acmicpc.net/problem/2839)|[]()|[]()||
+|3회차(25.01.22)|[설탕 배달](https://www.acmicpc.net/problem/2839)|[주식](https://www.acmicpc.net/problem/11501)|[]()||
 |4회차(25.01.29)|[]()|[]()|[]()||
 
 ## 📖 추천 문제집
