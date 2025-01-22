@@ -8,13 +8,15 @@ public class 설탕배달 {
         int n = scanner.nextInt();
         scanner.close();
 
-        int count = 0;
+        int count = 0; // 봉지 카운트
+        // 5로 나누어 떨어지는 경우
         while (n >= 0) {
             if (n % 5 == 0) {
                 count += n / 5;
                 System.out.println(count);
                 return;
             }
+
             n -= 3;
             count++;
         }
