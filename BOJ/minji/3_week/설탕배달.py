@@ -18,4 +18,3 @@ def solution (n):
 
 n = int(input())
 solution(n)
-    
