@@ -42,8 +42,11 @@
 |:-:|:-:|:-:|:-:|:-:|
 |1회차(25.01.08)|[임스와 함께하는 미니게임](https://www.acmicpc.net/problem/25757)|[블로그](https://www.acmicpc.net/problem/21921)|-|`완료`|
 |2회차(25.01.15)|[차집합](https://www.acmicpc.net/problem/1822)|[비슷한 단어](https://www.acmicpc.net/problem/2607)|[덩치](https://www.acmicpc.net/problem/7568)|`완료`|
-|3회차(25.01.22)|[설탕 배달](https://www.acmicpc.net/problem/2839)|[주식](https://www.acmicpc.net/problem/11501)|[]()||
-|4회차(25.01.29)|[]()|[]()|[]()||
+|3회차(25.01.22)|[설탕 배달](https://www.acmicpc.net/problem/2839)|[주식](https://www.acmicpc.net/problem/11501)|[쿠키의 신체 측정](https://www.acmicpc.net/problem/20125)|`완료`|
+|5회차(25.02.05)|[]()|[]()|[]()||
+|6회차(25.02.12)|[]()|[]()|[]()||
+|7회차(25.02.19)|[]()|[]()|[]()||
+|8회차(25.02.26)|[]()|[]()|[]()||
 
 ## 📖 추천 문제집
 - [IT기업 및 대기업 계열사 코테보면서 비슷했던 문제들](https://www.acmicpc.net/workbook/view/8708)
