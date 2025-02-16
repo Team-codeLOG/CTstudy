@@ -45,7 +45,7 @@
 |3회차(25.01.22)|[설탕 배달](https://www.acmicpc.net/problem/2839)|[주식](https://www.acmicpc.net/problem/11501)|[쿠키의 신체 측정](https://www.acmicpc.net/problem/20125)|`완료`|
 |5회차(25.02.05)|[분수찾기](https://www.acmicpc.net/problem/1193)|[최소 힙](https://www.acmicpc.net/problem/1927)|[진우의 달 여행 (Small)](https://www.acmicpc.net/problem/17484)|`완료`|
 |6회차(25.02.12)|[카드2](https://www.acmicpc.net/problem/2164)|[회의실 배정](https://www.acmicpc.net/problem/1931)|[]()||
-|7회차(25.02.19)|[]()|[]()|[]()||
+|7회차(25.02.19)|[계단 오르기](https://www.acmicpc.net/problem/2579)|[]()|[]()||
 |8회차(25.02.26)|[]()|[]()|[]()||
 
 ## 📖 추천 문제집
