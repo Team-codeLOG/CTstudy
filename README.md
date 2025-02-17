@@ -44,7 +44,7 @@
 |2회차(25.01.15)|[차집합](https://www.acmicpc.net/problem/1822)|[비슷한 단어](https://www.acmicpc.net/problem/2607)|[덩치](https://www.acmicpc.net/problem/7568)|`완료`|
 |3회차(25.01.22)|[설탕 배달](https://www.acmicpc.net/problem/2839)|[주식](https://www.acmicpc.net/problem/11501)|[쿠키의 신체 측정](https://www.acmicpc.net/problem/20125)|`완료`|
 |5회차(25.02.05)|[분수찾기](https://www.acmicpc.net/problem/1193)|[최소 힙](https://www.acmicpc.net/problem/1927)|[진우의 달 여행 (Small)](https://www.acmicpc.net/problem/17484)|`완료`|
-|6회차(25.02.12)|[카드2](https://www.acmicpc.net/problem/2164)|[회의실 배정](https://www.acmicpc.net/problem/1931)|[]()||
+|6회차(25.02.12)|[카드2](https://www.acmicpc.net/problem/2164)|[회의실 배정](https://www.acmicpc.net/problem/1931)|[햄버거 분배](https://www.acmicpc.net/problem/19941)|`완료`|
 |7회차(25.02.19)|[계단 오르기](https://www.acmicpc.net/problem/2579)|[컨베이어 벨트 위의 로봇](https://www.acmicpc.net/problem/20055)|[]()||
 |8회차(25.02.26)|[]()|[]()|[]()||
 
