@@ -2,26 +2,34 @@ import sys
 input = sys.stdin.readline
 
 n = int(input())
-arr = list(map(int, input().split()))
-arr.sort()
+arr = sorted(list(map(int, input().split())))
+good = 0
 
-cnt = 0
 for i in range(n):
-    goal = arr[i]
-    start = 0
-    end = len(arr)-1
-    while start < end:
-        if arr[start] + arr[end] == goal:
-            if start == i:
-                start += 1
-            elif end == i:
-                end -= 1
-            else:
-                cnt += 1
-                break
-        elif arr[start] + arr[end] > goal:
-            end -= 1
-        elif arr[start] + arr[end] < goal:
-            start += 1
+    left , right = 0, n-1
+    target = arr[i]
 
-print(cnt)
+    while left < right:
+        if i == left:
+            left+=1
+            continue
+        if i == right:
+            right-=1
+            continue
+
+        total = arr[left]+arr[right]
+        if target < total:
+            right -=1
+        elif target > total:
+            left +=1
+        else:
+            good+=1
+            break
+print(good)
+
+
+
+
+
+
+
