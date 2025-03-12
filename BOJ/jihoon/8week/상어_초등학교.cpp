@@ -22,9 +22,6 @@ void select() {
 	// 각 학생을 돌며, 1 -> 2 -> 3 의 조건을 만족하는대로 좌석 배치
 	for (int i = 1; i < stu.size(); i++) {
 		vector<tuple<int, int, int, int>> xy; // (좋아하는 학생 수, 빈칸 수, 행, 열)
-		// 1. 인접칸에 좋아하는 학생이 가장 많은 곳
-		// 해당 조건의 최댓값은 4 -> 4부터 0까지 탐색하는데, 값이 나오는 순간
-		// 조건 2로 이동
 
 		unordered_map<int, int> m; // 좋아하는 학생
 		for (int j = 0; j < 4; j++) m.insert({ stu[i].second[j], 1 });
