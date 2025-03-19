@@ -47,8 +47,8 @@
 |5회차(25.02.12)|[카드2](https://www.acmicpc.net/problem/2164)|[회의실 배정](https://www.acmicpc.net/problem/1931)|[햄버거 분배](https://www.acmicpc.net/problem/19941)|`완료`|
 |6회차(25.02.19)|[계단 오르기](https://www.acmicpc.net/problem/2579)|[컨베이어 벨트 위의 로봇](https://www.acmicpc.net/problem/20055)|[1, 2, 3 더하기 4](https://www.acmicpc.net/problem/15989)|`완료`|
 |7회차(25.03.05)|[빗물](https://www.acmicpc.net/problem/14719)|[좋다](https://www.acmicpc.net/problem/1253)|[지름길](https://www.acmicpc.net/problem/1446)|`완료`|
-|8회차(25.03.12)|[게으른 백곰](https://www.acmicpc.net/problem/10025)|[상어 초등학교](https://www.acmicpc.net/problem/21608)|[]()||
-|9회차(25.03.19)|[포도주 시식](https://www.acmicpc.net/problem/2156)|[보석 도둑](https://www.acmicpc.net/problem/1202)|[스카이라인 쉬운거](https://www.acmicpc.net/problem/1863)||
+|8회차(25.03.12)|[게으른 백곰](https://www.acmicpc.net/problem/10025)|[상어 초등학교](https://www.acmicpc.net/problem/21608)|[]()|`완료`|
+|9회차(25.03.19)|[포도주 시식](https://www.acmicpc.net/problem/2156)|[보석 도둑](https://www.acmicpc.net/problem/1202)|[스카이라인 쉬운거](https://www.acmicpc.net/problem/1863)|`완료`|
 |10회차(25.03.26)|[]()|[]()|[]()||
 
 
@@ -82,7 +82,6 @@ ex) Baekjoon > seulah
 <td width="100" align="center">김예인</td>
 <td width="100" align="center">최지훈</td>
 <td width="100" align="center">손민지</td>
-<td width="100" align="center">김문기</td>
 <td width="100" align="center">이정빈</td>
 </tr>
 
@@ -94,8 +93,32 @@ ex) Baekjoon > seulah
 <img src="https://github.com/user-attachments/assets/3177c478-51e6-49d8-bbaf-eba0881880af" width="60" height="60">
 </a>
 </td>
+<td width="100" align="center">
+<a href="https://github.com/qkrwoghd04">
+<img src="https://avatars.githubusercontent.com/u/122519801?v=4" width="60" height="60">
+</a>
+</td>
+<td width="100" align="center">
+<a href="https://github.com/2076070">
+<img src="https://avatars.githubusercontent.com/u/103043743?v=4" width="60" height="60">
+</a>
+</td>
+<td width="100" align="center">
+<a href="https://github.com/cjh-19">
+<img src="https://avatars.githubusercontent.com/u/66457014?v=4" width="60" height="60">
+</a>
+</td>
+<td width="100" align="center">
+<a href="https://github.com/midday2612">
+<img src="https://avatars.githubusercontent.com/u/109676875?v=4" width="60" height="60">
+</a>
+</td>
+<td width="100" align="center">
+<a href="https://github.com/coffeesigma">
+<img src="https://avatars.githubusercontent.com/u/49887550?v=4" width="60" height="60">
+</a>
+</td>
 </tr>
-
 
 <tr>
 <th>GitHub</th>
@@ -122,11 +145,6 @@ ex) Baekjoon > seulah
 <td width="100" align="center">
 <a href="https://github.com/midday2612">
 <img src="http://img.shields.io/badge/midday2612-green?style=social&logo=github"/>
-</a>
-</td>
-<td width="100" align="center">
-<a href="https://github.com/mgkim2025">
-<img src="http://img.shields.io/badge/mgkim2025-green?style=social&logo=github"/>
 </a>
 </td>
 <td width="100" align="center">
