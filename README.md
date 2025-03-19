@@ -49,7 +49,7 @@
 |7회차(25.03.05)|[빗물](https://www.acmicpc.net/problem/14719)|[좋다](https://www.acmicpc.net/problem/1253)|[지름길](https://www.acmicpc.net/problem/1446)|`완료`|
 |8회차(25.03.12)|[게으른 백곰](https://www.acmicpc.net/problem/10025)|[상어 초등학교](https://www.acmicpc.net/problem/21608)|[]()|`완료`|
 |9회차(25.03.19)|[포도주 시식](https://www.acmicpc.net/problem/2156)|[보석 도둑](https://www.acmicpc.net/problem/1202)|[스카이라인 쉬운거](https://www.acmicpc.net/problem/1863)|`완료`|
-|10회차(25.03.26)|[]()|[]()|[]()||
+|10회차(25.03.26)|[]()|[감시](https://www.acmicpc.net/problem/15683)|[]()||
 
 
 
