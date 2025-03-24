@@ -64,10 +64,14 @@ ex) Baekjoon > seulah
 ### Pull Request
 - [Baekjoon-문제번호] 본인 영문 이름
 - [Baekjoon-문제번호] 타임어택 문제 풀이
+- [Programmers-문제명] 본인 영문 이름
+- [Programmers-문제명] 타임어택 문제 풀이
 
 ### Commit Message
 - [Baekjoon-문제번호] 문제명
 - [Baekjoon-문제번호] 타임어택_문제명
+- [Programmers-문제명]
+- [Programmers-문제명] 타임어택
 
 # 👥 Members
 <table width="1000">
