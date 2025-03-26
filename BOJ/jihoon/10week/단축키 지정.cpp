@@ -9,7 +9,6 @@ unordered_map<char, int> um;
 // 단축키 지정 및 출력 함수 -> 전부 소문자로 판단
 void shortKey(string str) {
 	// 방법 1 - 각 단어의 첫번째 알파벳
-	string word = "";
 	for (int i = 0; i < str.length(); i++) {
 		if (i == 0 || str[i - 1] == ' ') {
 			// 없다면 해당 단어 출력 및 단축키 등록
