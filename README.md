@@ -52,7 +52,7 @@
 |10회차(25.03.26)|[타겟 넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165)|[감시](https://www.acmicpc.net/problem/15683)|[단축키 지정](https://www.acmicpc.net/problem/1283)|`완료`|
 |11회차(25.04.09)|[]()|[인구이동](https://www.acmicpc.net/problem/16234)|[]()||
 |12회차(25.04.16)|[배열 복원하기](https://www.acmicpc.net/problem/16967)|[근손실](https://www.acmicpc.net/problem/18429)|[]()||
-|13회차(25.04.23)|[]()|[]()|[]()||
+|13회차(25.04.23)|[]()|[청소년 상어](https://www.acmicpc.net/problem/19236)|[]()||
 |14회차(25.04.30)|[]()|[]()|[]()||
 
 
