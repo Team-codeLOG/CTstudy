@@ -24,5 +24,4 @@ def bfs(start):
                 queue.append(computer)
                 cnt+=1
     return cnt
-
 print(bfs(1))
