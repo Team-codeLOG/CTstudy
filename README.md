@@ -50,7 +50,7 @@
 |10회차(25.03.26)|[타겟 넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165)|[감시](https://www.acmicpc.net/problem/15683)|[단축키 지정](https://www.acmicpc.net/problem/1283)|`완료`|
 |12회차(25.04.16)|[배열 복원하기](https://www.acmicpc.net/problem/16967)|[근손실](https://www.acmicpc.net/problem/18429)|[수 이어 쓰기](https://www.acmicpc.net/problem/1515)|`완료`|
 |13회차(25.04.30)|[바이러스](https://www.acmicpc.net/problem/2606)|[청소년 상어](https://www.acmicpc.net/problem/19236)|[퇴사](https://www.acmicpc.net/problem/14501)|`완료`|
-|14회차(25.05.07)|[숨바꼭질3](https://www.acmicpc.net/problem/13549)|[]()|[]()||
+|14회차(25.05.07)|[숨바꼭질3](https://www.acmicpc.net/problem/13549)|[숫자 야구](https://www.acmicpc.net/problem/2503)|[]()||
 
 
 
